@@ -1,4 +1,4 @@
 # myfirstproject
 This  is my first git repository.
 <br>
-Author - Mahesh Arde( Saraf College)
+Author - Mahesh Arde( Kirandevi Saraf College)
